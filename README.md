@@ -1,2 +1,3 @@
 # bspmenu
-Power options for bspwm 
+
+Simple script that adds power options using dmenu.
